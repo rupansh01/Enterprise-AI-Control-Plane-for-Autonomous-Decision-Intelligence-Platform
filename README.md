@@ -1,4 +1,4 @@
-🧠 Enterprise AI Control Plane for Autonomous Decision Intelligence Platform
+Project-Name:🧠 Enterprise AI Control Plane for Autonomous Decision Intelligence Platform
     (Human-in-the-Loop | Confidence Monitoring | Policy Enforcement)
 
 📌 Project Overview
@@ -74,7 +74,6 @@ Slack Governance Alert
 
 🧠 Core Features
     ✅ AI Decision Engine
-
         OpenAI Chat API with structured outputs
         Produces:
         Decision
@@ -83,7 +82,6 @@ Slack Governance Alert
         Designed for auditable AI outputs
 
     👨‍⚖️ Human-in-the-Loop Enforcement
-
         High-confidence or high-risk cases are escalated
         Human decisions override AI safely
         Full traceability of:
