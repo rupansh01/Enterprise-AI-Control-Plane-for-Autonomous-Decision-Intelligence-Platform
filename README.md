@@ -1,7 +1,7 @@
 # 🧠 **ENTERPRISE AI CONTROL PLANE Autonomous Decision Intelligence Platform**
 
 ### *Human-in-the-Loop • Confidence Monitoring • Runtime Policy Enforcement*
-**🧰 Tech Stack:**n8n (Cloud) • Python • FastAPI • OpenAI API • Supabase (PostgreSQL) • Slack API • REST APIs • Webhooks • JSON-based AI Decision Pipelines
+🧰 Tech Stack:n8n (Cloud) • Python • FastAPI • OpenAI API • Supabase (PostgreSQL) • Slack API • REST APIs • Webhooks • JSON-based AI Decision Pipelines
 ---
 
 ## 📌 **PROJECT OVERVIEW**
