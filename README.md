@@ -252,7 +252,7 @@ It demonstrates:
 ## 👨‍💻 **AUTHOR**
 
 **Rupansh Kumar**
-M.Tech CSE — AI Systems & Automation
+M.Tech CSE — AI Platform and Workflow Automation Engineer 
 Focused on building **production‑safe, governable AI systems**
 
 ---
